@@ -1,10 +1,6 @@
 # MILO-UP
 
-This open-source desktop application transforms your solar panel into images and videos from MCP Server into clean, analysis-ready datasets in the biodiversity forest for engineer and conservationist by using computer vision.";
-const badges = [
-    { name: 'GitHub', url: 'https://img.shields.io/github/stars/Nkdarmel/MILO-UP?style=social' },
-    { name: 'License', url: 'https://img.shields.io/badge/Apache LicenseVersion 2.0-blue.svg' }
-];
+This open-source desktop application transforms your solar panel into images and videos from MCP Server into clean, analysis-ready datasets in the biodiversity forest for engineer and conservationist by using computer vision.
 
 
 ## Installation
